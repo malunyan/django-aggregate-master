@@ -1,0 +1,2 @@
+#Procfile
+gunicorn girls.wsgi
