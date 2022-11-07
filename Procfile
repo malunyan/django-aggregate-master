@@ -1,2 +1,1 @@
-#Procfile
-gunicorn girls.wsgi
+web: python ec_site
